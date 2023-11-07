@@ -9,10 +9,6 @@
  * Description: Longer description
  */
 
-/**
- * dog_t -new name for struct dog
- */
-
 struct dog
 {
 	char *name;
